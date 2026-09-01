@@ -182,6 +182,20 @@ trial são Heygen Avatar4 e Omnihuman — geradores de avatar falante, que exige
 retrato humano e não executam movimento de câmera cinematográfico. Nenhuma geração
 gratuita de vídeo foi consumida.
 
+**Onde gerar (importante).** A integração MCP desta sessão autentica contra a
+**Artlist**, não contra higgsfield.ai — todo bloqueio retorna "needs an Artlist
+subscription" apontando para `artlist.io/page/pricing`. A conta higgsfield.ai
+`brutalistsloth1722` está no Basic Plan com créditos disponíveis, mas esse direito
+de uso não alcança a ponte MCP: são entitlements separados. Verificado quatro vezes
+(saldo, F1, V2, e nova tentativa após reconexão), sempre com o mesmo resultado e
+sem consumo.
+
+**Conclusão prática:** gerar os assets diretamente em higgsfield.ai no navegador,
+usando os prompts, proporções e settings deste brief. Regenerar também F2 nesse
+ambiente — ela foi produzida via Artlist e está na biblioteca daquela conta, não na
+Higgsfield; manter os dez assets no mesmo ambiente garante coerência de modelo e
+paleta.
+
 **Frame arquivado:** a versão anterior de F1 (torres de vidro da Avenida Faria Lima
 na alvorada) foi produzida e consumiu uma geração gratuita antes da troca de
 conceito. Segue disponível na conta Artlist sob `generationId
