@@ -73,12 +73,17 @@ flicker, warping, distortion`
 
 ## 6. Fotos (7)
 
-### F1 — Capa: a fase benigna ✅ PRODUZIDA
-**Seção:** Resumo / 3 (Inflação) / 7 (Política monetária)
-**Ancoragem:** IPCA 4,44%; Selic 14,00%; CDS 119,76 pb; PTAX R$ 5,1816.
-**Modelo:** Seedream 5.0 Pro · 16:9 · 2K · `generationId 01a05ba3-822b-78c8-a09e-0105b61db4d6`
+### F1 — Capa: a fase benigna nasce no campo ⏳ PENDENTE
+**Seção:** Resumo / 3 (Inflação) / 4 (Setor externo)
+**Ancoragem:** o alívio da edição tem origem no campo. Alimentação e bebidas caiu
+0,67% em julho, segunda queda seguida após −0,24% em junho; o IGP-M acumula três
+meses de deflação (−0,50%, −1,16%, −0,22%) e apenas +2,18% em doze meses. É essa
+desinflação que leva o IPCA a 4,44% e abre espaço para o corte da Selic a 14,00%.
+A balança de bens, sustentada pelo agronegócio e pelas commodities minerais, soma
+US$ 43,2 bilhões no acumulado do ano.
+**Modelo:** Seedream 5.0 Pro · 16:9 · 2K
 
-> Cinematic editorial photograph for a macroeconomic report cover. Wide elevated view of the São Paulo financial district at first light — the glass towers of Avenida Faria Lima emerging from low blue mist, warm amber sunrise grazing the upper floors. Across the middle of the frame, integrated into the architecture as reflected light on the glass facades, a single luminous line descends in a smooth easing curve from upper left toward lower right, like a falling index rendered in glowing amber light. Cool teal-blue shadows against warm amber highlights, deep clean contrast, calm and controlled mood, a sense of pressure releasing. Shot on 35mm anamorphic, f/2.8, shallow depth of field, fine film grain, high dynamic range. No text, no letters, no numbers, no logos, no people, no screens, no user interface, no charts with labels. Photorealistic, sharp, premium financial editorial aesthetic.
+> Cinematic editorial photograph for a macroeconomic report cover. Wide elevated view of a vast Brazilian cerrado farmland at first light — endless rows of ripe soy stretching to a distant horizon, low blue mist lying in the furrows, warm amber sunrise grazing the tops of the crop. In the middle distance, a herd of white Nelore cattle grazes on open pasture at the field's edge, small in the frame, catching the same low amber light. Across the middle of the frame, integrated into the landscape as the line where mist meets the sunlit crop, a single luminous line descends in a smooth easing curve from upper left toward lower right, like a falling price index rendered in glowing amber light. Cool teal-blue shadows against warm amber highlights, deep clean contrast, calm and abundant mood, a sense of pressure releasing. Shot on 35mm anamorphic, f/2.8, shallow depth of field, fine film grain, high dynamic range. No text, no letters, no numbers, no logos, no people, no machinery, no screens, no user interface, no charts with labels. Photorealistic, sharp, premium financial editorial aesthetic.
 
 ### F2 — O contrapeso fiscal ✅ PRODUZIDA
 **Seção:** 8 (Quadro fiscal e dívida)
@@ -139,11 +144,11 @@ Sem áudio gerado — a trilha entra na edição.
 
 ### V1 — Abertura da edição: o paradoxo em um plano ⏳ PENDENTE
 **Duração:** 10s · **Técnica:** interpolação start-frame → end-frame
-**startFrame:** F1 (`01a05ba3-822b-78c8-a09e-0105b61db4d6`)
+**startFrame:** F1 (a gerar)
 **endFrame:** F2 (`01a05ba3-909a-7ecb-990a-21f01004ed25`)
 **Uso:** topo do site, abertura de e-mail, post de lançamento.
 
-> Single continuous cinematic move, no cuts, for the opening of a macroeconomic report. The camera drifts slowly forward and to the right as dawn mist thins over the glass towers; the descending line of amber light reaches its lowest point, holds for a beat, then reverses — bending upward and steepening as the scene transitions into the modernist concrete colonnade at dusk, columns stacking into depth while the curve climbs out of frame. Continuous slow parallax, deliberate and unhurried pace, subtle atmospheric haze and gentle light bloom. Cinematic color throughout: cool teal-blue to deep indigo shadows against warm amber highlights.
+> Single continuous cinematic move, no cuts, for the opening of a macroeconomic report. The camera drifts slowly forward and to the right as dawn mist thins over the rows of ripe soy and the grazing herd beyond them; the descending line of amber light reaches its lowest point, holds for a beat, then reverses — bending upward and steepening as the scene transitions into the modernist concrete colonnade at dusk, columns stacking into depth while the curve climbs out of frame. Continuous slow parallax, deliberate and unhurried pace, subtle atmospheric haze and gentle light bloom. Cinematic color throughout: cool teal-blue to deep indigo shadows against warm amber highlights.
 
 ### V2 — Explicador: é juros, não é gasto ⏳ PENDENTE
 **Duração:** 10s · **Técnica:** image-to-video a partir de F2
@@ -158,7 +163,7 @@ o primário responde por menos de um décimo do desequilíbrio; os juros, pelo r
 **Ancoragem:** Base "Aterrissagem Coordenada" 55% · Pessimista "Estresse Fiscal" 25%
 · Otimista "Reancoragem" 20%.
 
-> Single continuous cinematic move, no cuts. The camera rises slowly over the misty dawn cityscape as the single luminous amber line running through the frame separates smoothly into three distinct parallel paths ahead — one continuing level and bright and dominant, one bending gently downward and dimmer, one lifting gently upward and dimmer still — all three receding toward the horizon without ever touching. Deliberate unhurried pace, continuous slow parallax, subtle atmospheric haze and gentle light bloom. Cinematic color: cool teal-blue shadows against warm amber highlights.
+> Single continuous cinematic move, no cuts. The camera rises slowly over the misty dawn farmland as the single luminous amber line running through the frame separates smoothly into three distinct parallel paths ahead — one continuing level and bright and dominant, one bending gently downward and dimmer, one lifting gently upward and dimmer still — all three receding toward the horizon without ever touching. Deliberate unhurried pace, continuous slow parallax, subtle atmospheric haze and gentle light bloom. Cinematic color: cool teal-blue shadows against warm amber highlights.
 
 ---
 
@@ -166,7 +171,7 @@ o primário responde por menos de um décimo do desequilíbrio; os juros, pelo r
 
 | Asset | Status | Bloqueio |
 |---|---|---|
-| F1 | ✅ Produzida | — |
+| F1 | ⏳ Pendente | Reescrita para o campo; trial gratuito esgotado |
 | F2 | ✅ Produzida | — |
 | F3–F7 | ⏳ Pendente | Trial gratuito esgotado (2 imagens usadas) |
 | V1–V3 | ⏳ Pendente | Todo modelo de vídeo de uso geral exige assinatura Artlist |
@@ -177,7 +182,12 @@ trial são Heygen Avatar4 e Omnihuman — geradores de avatar falante, que exige
 retrato humano e não executam movimento de câmera cinematográfico. Nenhuma geração
 gratuita de vídeo foi consumida.
 
-**Sobre os binários:** os PNGs de F1 e F2 não puderam ser gravados neste diretório.
+**Frame arquivado:** a versão anterior de F1 (torres de vidro da Avenida Faria Lima
+na alvorada) foi produzida e consumiu uma geração gratuita antes da troca de
+conceito. Segue disponível na conta Artlist sob `generationId
+01a05ba3-822b-78c8-a09e-0105b61db4d6`, caso sirva como alternativa.
+
+**Sobre os binários:** o PNG de F2 não pôde ser gravado neste diretório.
 A política de rede do ambiente de execução remoto nega CONNECT para os hosts de CDN
 da Artlist (`cms-toolkit-artifacts.artlist.io`, `mcp.artlist.io` — HTTP 403). As
 imagens estão na conta Artlist, acessíveis pelos `generationId` acima.
